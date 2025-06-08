@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "aGmAyPoetg5ywEjqB81OHqQXD10WM47+v10vlosxrPo=",
+  "Source": "GithubCopilotDemoWebApi",
+  "BasePath": "_content/GithubCopilotDemoWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
